@@ -1,0 +1,15 @@
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\bin\Debug\net6.0\ptiAlgII.exe
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\bin\Debug\net6.0\ptiAlgII.deps.json
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\bin\Debug\net6.0\ptiAlgII.runtimeconfig.json
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\bin\Debug\net6.0\ptiAlgII.dll
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\bin\Debug\net6.0\ptiAlgII.pdb
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ptiAlgII.csproj.AssemblyReference.cache
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ptiAlgII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ptiAlgII.AssemblyInfoInputs.cache
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ptiAlgII.AssemblyInfo.cs
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ptiAlgII.csproj.CoreCompileInputs.cache
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ptiAlgII.dll
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\refint\ptiAlgII.dll
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ptiAlgII.pdb
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ptiAlgII.genruntimeconfig.cache
+C:\Users\e.beatriz.de.godoy\Desktop\igo\ptiAlgII\ptiAlgII\obj\Debug\net6.0\ref\ptiAlgII.dll
